@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stef-Halmans
-- 👀 I’m interested in mobile and web development
+- 👀 I’m interested in mobile, web and backend development
 - 🌱 I’m currently studying Computer Science and Engineering at the Techincal University of Eindhoven.
 - 📫 How to reach me: stefhalmans@ziggo.nl
 
